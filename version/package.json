@@ -1,7 +1,7 @@
 {
   "name": "version",
   "version": "1.0.0",
-  "description": "A simple Node.js app to demonstrate updates and webhooks",
+  "description": "A simple Node.js app to demonstrate updates-lin version1 and webhooks",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
